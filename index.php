@@ -9,11 +9,17 @@
     <title>Goal Tracker</title>
   </head>
   <body>
-    <div id="container">
-      <h1>Hello</h1>
+<div class="container">
+  <h1>Hello</h1>
+</div>
+
+
+
+
+
       <?php
      
      ?>
-    </div>
+
   </body>
 </html>

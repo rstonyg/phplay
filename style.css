@@ -1,26 +1,11 @@
 *{
   font-family: 'Roboto', sans-serif;
-  background-color: green;
+  box-sizing: border-box;
 }
 
-#container{
-  margin: 10px;
-}
-
-.goal {
-  border: 1px solid gray;
-  background-color: purple;
-  color: white;
-  margin-bottom: 10px;
+.container {
+  background-color: red;
+  border: 1px solid black;
+  margin: 25px;
   padding: 10px;
-  border-radius: 5px;
-  box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.35);
-}
-
-.goal p {
-  font-size: 2.25em;
-}
-
-.btnComplete, .btnDelete{
-  float:right;
 }
