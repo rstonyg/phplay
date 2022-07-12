@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
     <link rel="stylesheet" href="http://cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
     <link rel="stylesheet" href="http://cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css">
-    <link rel="stylesheet" href="goals.css" />
+    <link rel="stylesheet" href="goals.css">
     <title>Goal Tracker</title>
   </head>
   <body>
