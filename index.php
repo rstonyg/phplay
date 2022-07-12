@@ -9,7 +9,7 @@
     <title>Goal Tracker</title>
   </head>
   <body>
-<div class="container">
+<div class="nav">
   <p>Advance Marketing and Mail Inc</p>
 </div>
 
