@@ -5,16 +5,16 @@
   padding: 0;
 }
 
-.container {
-  background-color: red;
-  border: 1px solid black;
-  margin: 25px;
-  padding: 10px;
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
 }
 
-.nav {
-  background-color: lightblue;
-  border-bottom: 1px solid black;
-  width: 100%;
-  padding: 10px;
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
 }
